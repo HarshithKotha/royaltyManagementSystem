@@ -1,0 +1,6 @@
+projectKey=Royalty_System_Authentication
+serverUrl=http://localhost:1000
+serverVersion=25.2.0.102705
+dashboardUrl=http://localhost:1000/dashboard?id=Royalty_System_Authentication
+ceTaskId=3ca35367-10f8-4fa2-a609-f9dda8842a3f
+ceTaskUrl=http://localhost:1000/api/ce/task?id=3ca35367-10f8-4fa2-a609-f9dda8842a3f

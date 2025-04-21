@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "tailwindcss";
+
+/* index.css or any global CSS file */
+@media (max-width: 1024px) {
+    .lg\:translate-x-0 {
+      transform: translateX(0);
+    }
+  }

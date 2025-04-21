@@ -1,0 +1,6 @@
+projectKey=Royalty_System-Frontend-
+serverUrl=http://localhost:1000
+serverVersion=25.2.0.102705
+dashboardUrl=http://localhost:1000/dashboard?id=Royalty_System-Frontend-
+ceTaskId=2b70a399-0c01-49a1-a92a-ab894a0959f8
+ceTaskUrl=http://localhost:1000/api/ce/task?id=2b70a399-0c01-49a1-a92a-ab894a0959f8

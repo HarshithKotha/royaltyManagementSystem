@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+{"processes":{"48a75fb1-19d5-4a15-ace8-d2b67c2c8285":{"parent":null,"children":[]}},"files":{"C:\\for final deployment monday\\RMS_finalCut\\server\\authenticationModule\\models\\userModel.js":["48a75fb1-19d5-4a15-ace8-d2b67c2c8285"],"C:\\for final deployment monday\\RMS_finalCut\\server\\authenticationModule\\controllers\\authController.js":["48a75fb1-19d5-4a15-ace8-d2b67c2c8285"],"C:\\for final deployment monday\\RMS_finalCut\\server\\authenticationModule\\middleware\\authMiddleware.js":["48a75fb1-19d5-4a15-ace8-d2b67c2c8285"]},"externalIds":{}}
+=======
+{"processes":{"19b6b0b6-7d30-4a51-82a3-ad3390d317e3":{"parent":null,"children":[]}},"files":{"C:\\deploy\\Mess\\RMS_finalCut\\server\\authenticationModule\\models\\userModel.js":["19b6b0b6-7d30-4a51-82a3-ad3390d317e3"],"C:\\deploy\\Mess\\RMS_finalCut\\server\\authenticationModule\\controllers\\authcontroller.js":["19b6b0b6-7d30-4a51-82a3-ad3390d317e3"],"C:\\deploy\\Mess\\RMS_finalCut\\server\\authenticationModule\\middleware\\authMiddleware.js":["19b6b0b6-7d30-4a51-82a3-ad3390d317e3"]},"externalIds":{}}
+>>>>>>> 262fa1b5f002ac468057390e02524c157682480f

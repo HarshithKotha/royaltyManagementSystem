@@ -1,0 +1,6 @@
+projectKey=Royalty_System4
+serverUrl=http://localhost:1000
+serverVersion=25.2.0.102705
+dashboardUrl=http://localhost:1000/dashboard?id=Royalty_System4
+ceTaskId=25174bb7-7374-441d-a26e-d69cd5ff0be3
+ceTaskUrl=http://localhost:1000/api/ce/task?id=25174bb7-7374-441d-a26e-d69cd5ff0be3

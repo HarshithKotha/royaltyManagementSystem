@@ -1,0 +1,6 @@
+projectKey=Capstone_RMS
+serverUrl=http://localhost:1000
+serverVersion=25.2.0.102705
+dashboardUrl=http://localhost:1000/dashboard?id=Capstone_RMS
+ceTaskId=eb4bc19e-705e-46eb-a180-a946eb7a29f0
+ceTaskUrl=http://localhost:1000/api/ce/task?id=eb4bc19e-705e-46eb-a180-a946eb7a29f0
