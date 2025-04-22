@@ -12,7 +12,7 @@ export const AuthProvider = ({ children }) => {
         const token = sessionStorage.getItem("token");
         if (token) {
             try {
-                const response = await axios.get("http://localhost:5001/api/auth/verify", {
+                const response = await axios.get("https://authenticationmodule-4043.onrender.com/api/auth/verify", {
                     headers: {
                         "Content-Type": "application/json",
                         Authorization: `Bearer ${token}`,
